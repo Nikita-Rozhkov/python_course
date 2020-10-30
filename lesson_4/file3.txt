@@ -1,0 +1,4 @@
+Employee_1:18000
+Employee_2:21000
+Employee_3:17000
+Employee_4:23000
